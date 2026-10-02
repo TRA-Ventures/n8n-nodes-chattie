@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-chattie",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Sales", "Communication"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/TRA-Ventures/n8n-nodes-chattie?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/TRA-Ventures/n8n-nodes-chattie?tab=readme-ov-file"
+			}
+		]
+	}
+}
