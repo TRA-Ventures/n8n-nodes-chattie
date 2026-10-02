@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-chattie",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n community node for Chattie: manage LinkedIn prospecting leads, campaigns, conversations and metrics",
   "license": "MIT",
   "homepage": "https://github.com/TRA-Ventures/n8n-nodes-chattie",
